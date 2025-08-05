@@ -5,3 +5,7 @@ git commit -m "Comment" - This command are used to tracked your file.
 git log - check the log who are edit git releated task.
 git checkout -b dev - this command is used to create the new branch.
 git checkout dev - this comomand is used to switch one branch to another branch.
+git remote -v  - If we want to share our data in github that we need to used git push and git pull we are using this command.
+git push - This command is used to push the code or file in git(Local machine)to github(remote machine) that we are using this command.
+git pull - those are chnaged are alredy done in github this chnaged are need to installed our machine that time we are using this command.
+ 
